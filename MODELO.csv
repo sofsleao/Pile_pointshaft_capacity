@@ -1,0 +1,26 @@
+﻿# Informações Gerais;;;;;;;;
+ID da Estaca;Diametro (m);Comprimento (m);Tipo de Estaca;Cota de Inicio (m);Cota de Termino (m);Data da Análise;Cidade;Estado
+EHC21;0.6;12.8;Helice Continua;0;12.8;08/10/2024;Rio de Janeiro;RJ
+;;;;;;;;
+# Dados de Sondagem SPT;;;;;;;;
+Profundidade (m);NSPT;;;;;;;
+1;9;;;;;;;
+2;23;;;;;;;
+3;31;;;;;;;
+4;47;;;;;;;
+5;28;;;;;;;
+6;31;;;;;;;
+7;39;;;;;;;
+8;28;;;;;;;
+9;32;;;;;;;
+10;31;;;;;;;
+11;30;;;;;;;
+12;35;;;;;;;
+13;32;;;;;;;
+14;46;;;;;;;
+15;34;;;;;;;
+16;5;;;;;;;
+17;34;;;;;;;
+18;38;;;;;;;
+19;22;;;;;;;
+20;25;;;;;;;
