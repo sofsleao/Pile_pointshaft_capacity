@@ -14,6 +14,19 @@ Os dados utilizados para treinamento da RNA foram:
 
     Geometria da Estaca: Diâmetro e comprimento.
     NSPT (Standard Penetration Test): Média de quatro seções do fuste e o valor do NSPT para a ponta da estaca.
+## Comece Aqui
+
+Bem-vindo ao projeto de **Previsão de Carga em Estaca Hélice Contínua**! Este repositório contém uma ferramenta baseada em **Redes Neurais Artificiais (RNA)** para prever cargas de fuste e ponta em estacas hélice contínuas.
+
+### Instruções
+
+1. **Modelo de Arquivo CSV**: Um arquivo `.csv` modelo está disponível neste repositório. Você pode utilizá-lo como base para formatar seus dados de entrada. Certifique-se de preencher as informações necessárias, como diâmetro, comprimento, e dados de NSPT.
+
+2. **Execução do Código**: Após preencher o arquivo `.csv`, execute o código Python contido neste repositório. O programa irá processar os dados fornecidos e realizar as previsões.
+
+3. **Relatório em PDF**: Ao final da execução do programa, um relatório em PDF será gerado automaticamente. Este relatório incluirá todas as informações que você forneceu, além dos dados da análise e das previsões de carga de fuste e ponta.
+
+Aproveite e sinta-se à vontade para explorar o projeto!
 
 ## Arquitetura da RNA
 
